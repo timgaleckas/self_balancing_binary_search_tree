@@ -1,4 +1,7 @@
-require 'test_helper'
+require 'rubygems'
+require 'active_support'
+require 'test/unit'
+require 'app/models/self_balancing_binary'
 
 class SelfBalancingBinaryTreeTest < ActiveSupport::TestCase
 
